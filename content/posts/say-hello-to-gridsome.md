@@ -2,7 +2,7 @@
 title: "Say hello to Gridsome \U0001F389"
 excerpt: This is the first post
 date: 2019-02-07T00:00:00.000Z
-cover_imange: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
 ---
 A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
 
