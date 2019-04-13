@@ -2,13 +2,13 @@ backend:
   name: github
   repo: noah004B/my-gridsome-site
 
-media_folder: "static/uploads"
+media_folder: "content/uploads"
 public_folder: "/uploads"
 
 collections:
   - name: "posts"
     label: "Posts"
-    folder: "posts"
+    folder: "content/posts"
     create: true
     slug: "{{slug}}"
     fields:
