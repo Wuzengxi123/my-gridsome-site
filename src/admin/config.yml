@@ -2,8 +2,8 @@ backend:
   name: github
   repo: noah004B/my-gridsome-site
 
-media_folder: "content/posts/images"
-public_folder: "assets/static"
+media_folder: "assets/static"
+public_folder: "/assets/static"
 
 collections:
   - name: "posts"

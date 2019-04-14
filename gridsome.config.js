@@ -23,7 +23,8 @@ module.exports = {
             route: '/tag/:id',
             create: true
           }
-        }
+        },
+        resolveAbsolutePaths: true
       }
     },
     {
