@@ -1,7 +1,7 @@
 ---
 title: "Say hello to Gridsome \U0001F389"
 date: 2019-02-07T00:00:00.000Z
-cover_image: /assets/static/alexandr-podvalny-220262-unsplash.jpg
+cover_image: /assets/static/usa_avengers_chi_ironman_n_cf2a66b6.png
 ---
 A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
 
@@ -71,3 +71,5 @@ In the next couple of months we're going to continue to improve the docs, create
 We're currently just two brothers working on this, so any contribution is very welcome. We're passionate about building a faster web and make website building fun again.
 
 You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
+
+![](/assets/static/img_4200.jpg)
