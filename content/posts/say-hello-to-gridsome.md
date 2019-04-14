@@ -1,6 +1,5 @@
 ---
 title: "Say hello to Gridsome \U0001F389"
-excerpt: This is the first post
 date: 2019-02-07T00:00:00.000Z
 cover_image: /assets/static/usa.png
 ---
