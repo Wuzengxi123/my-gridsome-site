@@ -1,6 +1,11 @@
 ---
 title: "Say hello to Gridsome \U0001F389"
 date: 2019-02-07T00:00:00.000Z
+description: >-
+  This is the first description for this post. Now, we can write long content in
+  the description. So I'm writing the long description now. This is the first
+  description for this post. Now, we can write long content in the description.
+  So I'm writing the long description now. 
 tags:
   - markdown
 cover_image: /assets/static/img_4208.jpg
